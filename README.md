@@ -19,3 +19,5 @@ Interactive notebooks aren't supported in github, so nbviewer is used instead.
 #### K-means
 
 * Clustering on the above tfidf using kmeans for k = 8 clusters : [nbviewer link](https://nbviewer.jupyter.org/github/dmarkos/Wikipedia-Browser/blob/master/notebook/Wiki%20Viz%20Kmeans%20K%3D8.ipynb)  [75.4 MB]
+
+* Clustering a tf-idf reduced in 2 dimensions for k = 8 clusters- experimental: [nbviewer_link](https://nbviewer.jupyter.org/github/dmarkos/Wikipedia-Browser/blob/master/notebook/Wiki%20Viz%20Kmeans%20K%3D8-Clustering%20the%20svd%20matrix.ipynb) [37.7 MB]
