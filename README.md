@@ -28,4 +28,4 @@ Interactive notebooks aren't supported in github, so nbviewer is used instead.
 
 #### DBSCAN (on low-d matrix)
 
-* Clustering a low-d using using dbscan with no specific options. Clusters generated = 155 : [nbviewer link](https://nbviewer.jupyter.org/github/dmarkos/Wikipedia-Browser/blob/master/notebook/Wiki%20Viz%20dbscan%20155%20Clusters%20on%20a%20low-dimensional%20data-set.ipynb)  [74.8 MB]
+* Clustering a 2-d dimensionality reduced matrix, using dbscan with no specific attributes. Clusters generated = 155 : [nbviewer link](https://nbviewer.jupyter.org/github/dmarkos/Wikipedia-Browser/blob/master/notebook/Wiki%20Viz%20dbscan%20155%20Clusters%20on%20a%20low-dimensional%20data-set.ipynb)  [74.8 MB]
