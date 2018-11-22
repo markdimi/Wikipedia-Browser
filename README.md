@@ -1,5 +1,8 @@
 # Wikipedia-Browser
-Project and relevant files. Dataset used is the Greek Wikipedia corpus.
+
+Below I plotted the Greek Wikipedia articles in a 2d dynamic representation. First I created a vector representation of the documents (mainly tf-idf) and then I applied dimensionality reduction techniques in order to reduce the vector space to two dimensions. Clustering analysis is also applied at some examples. It is interesting to see that similar documents are plotted close to each other, even though the feature extractiong is not at all optimized.
+
+### Due to a change in the plotting library bokeh all the dynamic plotts stopped working. Thankfully there is a workaround and I will fix soon. For now only the first notebook in the lists works.
 
 ## Notebooks:
 Interactive notebooks aren't supported in github, so nbviewer is used instead.
